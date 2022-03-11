@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/KulaniM/kulanim.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Senior Lecturer at Faculty of Information Technology, University of Moratuwa, Sri Lanka. I obtained my PhD degree from National University of Singapore, Singapore, and and B.S. degrees from University of Moratuwa, Sri Lanka. My research interests include Security and Privacy of Internet of Things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Students
 
-### Markdown
+- **Amali Jayawardhana (MSc)**: Privacy analysis of smart speakers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## News
+- 12 Feb 2021 I am serving the SEAIS 2022 as a PC member
+- 03 Dec 2021 I am serving the FITI 2021 as a PC member
+- 01 Oct 2021 I am serving the ICITR 2021 as a PC member
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KulaniM/kulanim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Publications
+1. MAHADEWA, K.T., 2021. ANALYSING SECURITY OF IOT INTEGRATIONS. (PhD Thesis)
+2. Identifying privacy weaknesses from multi-party trigger-action integration platforms. Mahadewa, K., Zhang, Y., Bai, G., Bu, L., Zuo, Z., Fernando, D., Liang, Z. and Dong, J.S., 2021, July.  In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2021) (pp. 2-15).
+3. Scrutinizing Implementations of Smart Home Integrations.
+Kulani Mahadewa, Kailong Wang, Guangdong Bai, Ling Shi, Yan Liu, Jin Song Dong and Zhenkai Liang. IEEE Transactions on Software Engineering, TSE 2019 [journal paper] [demo]
+4. HOMESCAN: Scrutinizing Implementations of Smart Home Integrations. Kulani Mahadewa, Kailong Wang, Guangdong Bai, Ling Shi, Jin Song Dong and Zhenkai Liang. 23rd International Conference on Engineering of Complex Computer Systems, ICECCS 2018, Melbourne, Australia, December 12-14, 2018 [conference paper][pptx][demo]
+5. Security Analysis of Smart Home Implementations. Mahadewa K. (2018) In: Sun J., Sun M. (eds) Formal Methods and Software Engineering. ICFEM 2018. Lecture Notes in Computer Science, vol 11232. Springer, Cham
+Clicks:
