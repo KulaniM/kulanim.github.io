@@ -7,7 +7,7 @@ I am a Senior Lecturer at Faculty of Information Technology, University of Morat
 - **Amali Jayawardhana (MSc)**: Privacy analysis of smart speakers
 
 ## News
-- 12 Feb 2021 I am serving the SEAIS 2022 as a PC member
+- 12 Feb 2022 I am serving the SEAIS 2022 as a PC member
 - 03 Dec 2021 I am serving the FITI 2021 as a PC member
 - 01 Oct 2021 I am serving the ICITR 2021 as a PC member
 
