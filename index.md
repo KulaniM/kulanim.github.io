@@ -9,15 +9,15 @@ My research focuses on the Security and Privacy of the Internet of Things. I hav
 - **Amila Samarakoon (Undergraduate)**: Denial of Service Attacks
 
 ## News
-- Project Sponsor: SCORE Contest of 45th International Conference on Software Engineering (ICSE 2023)
+- Congradulations !!! to the team PrivTAP for selecting for the finals at ICSE SCORE 2023 (https://conf.researchr.org/track/icse-2023/icse-2023-score-2023?#event-overview)
+- Project Sponsor: SCORE Contest of 45th International Conference on Software Engineering (ICSE 2023) 
 - I'm contributing to open.uom.lk as a Course Coordinator and a Content Creator. Register for “Trainee Full Stack Developer” program at https://open.uom.lk/
+- 12 Feb 2022 I am serving the SEAIS 2022 as a PC member
 - I am serving 8th International Multidisciplinary Engineering Research Conference (MERCon 2022) as a PC member
 - I am serving 6th International Conference on Information Technology Research (ICITR 2021) as a member of Editorial Board, Publication Chair, Session Chair
 - I am serving SLAAS/ SLIC Conference on “FROM INNOVATION TO IMPACT” (FITI 2021) jointly organized by the Sri Lanka Association for the Advancement of Science (SLAAS) and (SLIC), as a PC member
 - I'm serving IEEE 10th International Conference on Information and Automation for Sustainability 2021 (ICIAfS 2021) as an External Reviewer: 
-- 12 Feb 2022 I am serving the SEAIS 2022 as a PC member
-- 03 Dec 2021 I am serving the FITI 2021 as a PC member
-- 01 Oct 2021 I am serving the ICITR 2021 as a PC member
+
 
 ## Publications
 1. MAHADEWA, K.T., 2021. ANALYSING SECURITY OF IOT INTEGRATIONS. (PhD Thesis)
