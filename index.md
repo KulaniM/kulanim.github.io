@@ -9,6 +9,12 @@ My research focuses on the Security and Privacy of the Internet of Things. I hav
 - **Amali Jayawardhana (MSc)**: Privacy analysis of smart speakers
 - **Amila Samarakoon (Undergraduate)**: Denial of Service Attacks
 
+### Teaching
+**2022**: 
+- IN 1600: Web Technologies
+**2021**:
+- IN 4500: Mobile and Wireless Networks
+  
 ## News
 - 23 Oct 2023 - I am serving ICECCS 2024 as a PC member
 - 20 May 2023 - Congradulations !!! to the team PrivTAP for selecting as a finalist at ICSE SCORE 2023 (https://conf.researchr.org/track/icse-2023/icse-2023-score-2023?#event-overview)
