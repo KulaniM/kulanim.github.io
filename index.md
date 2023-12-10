@@ -5,7 +5,7 @@ I am a Senior Lecturer at Faculty of Information Technology, University of Morat
 ### Graduated Students
 
 - **Amali Jayawardhana (MSc)**: Privacy analysis of smart speakers
-- **Amaila Samarakoon (Undergraduate)**: Denial of Service Attacks
+- **Amila Samarakoon (Undergraduate)**: Denial of Service Attacks
 
 ## News
 - 12 Feb 2022 I am serving the SEAIS 2022 as a PC member
