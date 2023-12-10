@@ -7,7 +7,7 @@ My research focuses on the Security and Privacy of the Internet of Things. I hav
 ### Graduated Students
 
 - **Amali Jayawardhana (MSc)**: Privacy analysis of smart speakers
-- **Amila Samarakoon (Undergraduate)**: Denial of Service Attacks
+- **Amila Samarakoon (BSc)**: Denial of Service Attacks
 
 ### Teaching
 **2022**: 
