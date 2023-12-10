@@ -1,6 +1,7 @@
 ## About Me
+I am currently serving as a research fellow at the National University of Singapore. Before this, I held the position of Senior Lecturer/Lecturer at the Faculty of Information Technology, University of Moratuwa, Sri Lanka, from 2021 to 2022. I earned my PhD degree in 2021 from the National University of Singapore, and I obtained my B.S. degrees in 2013 from the University of Moratuwa, Sri Lanka. Following my graduation from University of Moratuwa, I had industry experience as a Software Engineer at Aeturnum Lanka (Pvt) Ltd, Sri Lanka, from 2013 to 2015.
 
-I am a Senior Lecturer at Faculty of Information Technology, University of Moratuwa, Sri Lanka. I obtained my PhD degree from National University of Singapore, Singapore, and and B.S. degrees from University of Moratuwa, Sri Lanka. My research interests include Security and Privacy of Internet of Things.
+My research focuses on the Security and Privacy of the Internet of Things. I have contributed to top-tier journals and conferences, including publications in IEEE Transactions on Software Engineering (TSE) and the International Symposium on Software Testing and Analysis (ISSTA).
 
 ### Graduated Students
 
