@@ -10,7 +10,7 @@ My research focuses on the Security and Privacy of the Internet of Things. I hav
 
 ## News
 - Congradulations !!! to the team PrivTAP for selecting as a finalist at ICSE SCORE 2023 (https://conf.researchr.org/track/icse-2023/icse-2023-score-2023?#event-overview)
-- Project Sponsor: SCORE Contest of 45th International Conference on Software Engineering (ICSE 2023) 
+- Project Sponsor: (Project Title - PrivTAP: Privacy-preserving Trigger-action IoT Platform )at SCORE Contest of 45th International Conference on Software Engineering (ICSE 2023) 
 - I'm contributing to open.uom.lk as a Course Coordinator and a Content Creator. Register for “Trainee Full Stack Developer” program at https://open.uom.lk/
 - 12 Feb 2022 I am serving the SEAIS 2022 as a PC member
 - I am serving 8th International Multidisciplinary Engineering Research Conference (MERCon 2022) as a PC member
