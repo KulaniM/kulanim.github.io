@@ -1,3 +1,4 @@
+<img src="{{site.url}}/images/kulani-photo.jpg" style="display: block; margin: auto;" />
 ## About Me
 I am currently serving as a research fellow at the National University of Singapore. Before this, I held the position of Senior Lecturer/Lecturer at the Faculty of Information Technology, University of Moratuwa, Sri Lanka, from 2021 to 2022. I earned my PhD degree in 2021 from the National University of Singapore, and I obtained my B.S. degrees in 2013 from the University of Moratuwa, Sri Lanka. Following my graduation from University of Moratuwa, I had industry experience as a Software Engineer at Aeturnum Lanka (Pvt) Ltd, Sri Lanka, from 2013 to 2015.
 
