@@ -2,9 +2,10 @@
 
 I am a Senior Lecturer at Faculty of Information Technology, University of Moratuwa, Sri Lanka. I obtained my PhD degree from National University of Singapore, Singapore, and and B.S. degrees from University of Moratuwa, Sri Lanka. My research interests include Security and Privacy of Internet of Things.
 
-### Current Students
+### Graduated Students
 
 - **Amali Jayawardhana (MSc)**: Privacy analysis of smart speakers
+- **Amaila Samarakoon (Undergraduate)**: Denial of Service Attacks
 
 ## News
 - 12 Feb 2022 I am serving the SEAIS 2022 as a PC member
