@@ -9,11 +9,11 @@ My research focuses on the Security and Privacy of the Internet of Things. I hav
 - **Amila Samarakoon (Undergraduate)**: Denial of Service Attacks
 
 ## News
-- 23 Oct 2023 - I am serving the ICECCS 2024 as a PC member
+- 23 Oct 2023 - I am serving ICECCS 2024 as a PC member
 - 20 May 2023 - Congradulations !!! to the team PrivTAP for selecting as a finalist at ICSE SCORE 2023 (https://conf.researchr.org/track/icse-2023/icse-2023-score-2023?#event-overview)
 - 06 Nov 2022 - I am serving as a Project Sponsor (Title - PrivTAP: Privacy-preserving Trigger-action IoT Platform )at SCORE Contest of 45th International Conference on Software Engineering (ICSE 2023) 
 - 10 March 2022 - I'm contributing to open.uom.lk as a Course Coordinator and a Content Creator. Register for “Trainee Full Stack Developer” program at https://open.uom.lk/
-- 12 Feb 2022 - I am serving the SEAIS 2022 as a PC member
+- 12 Feb 2022 - I am serving SEAIS 2022 as a PC member
 - I am serving 8th International Multidisciplinary Engineering Research Conference (MERCon 2022) as a PC member
 - I am serving 6th International Conference on Information Technology Research (ICITR 2021) as a member of Editorial Board, Publication Chair, Session Chair
 - I am serving SLAAS/ SLIC Conference on “FROM INNOVATION TO IMPACT” (FITI 2021) jointly organized by the Sri Lanka Association for the Advancement of Science (SLAAS) and (SLIC), as a PC member
