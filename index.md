@@ -12,6 +12,7 @@ My research focuses on the Security and Privacy of the Internet of Things. I hav
 ### Teaching
 **2022**: 
 - IN 1600: Web Technologies
+  
 **2021**:
 - IN 4500: Mobile and Wireless Networks
   
